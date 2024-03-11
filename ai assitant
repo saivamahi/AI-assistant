@@ -327,7 +327,7 @@ if __name__ == '__main__':
             codePath = r"C:\\Users\\GAURAV\\AppData\\Local\\Programs\\Opera\\launcher.exe"
             os.startfile(codePath)
 
-        elif 'email to gaurav' in query:
+        elif 'email to saiteja' in query:
             try:
                 content = takeCommandcontent()
                 to = "saitejapendem1@gmail.com"    
