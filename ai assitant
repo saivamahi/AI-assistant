@@ -360,7 +360,7 @@ if __name__ == '__main__':
             exit()
 
         elif "who made you" in query or "who created you" in query: 
-            speak("I have been created by Gaurav.")
+            speak("I have been created by Pendem Sai.")
 
         elif 'joke' in query:
             speak(pyjokes.get_joke())
